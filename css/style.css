@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+#map {
+  height: 400px;
+}
+
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=PT+Serif&display=swap");
+
+h1,h3{
+  font-family: "PT Serif", serif;
+}
+
+table {
+  font-family: "Comfortaa", cursive;
+}
+
+a {
+  font-family: "Comfortaa", cursive;
+}
+
+.form-label {
+  font-family: "Comfortaa", cursive;
+}
